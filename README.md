@@ -14,7 +14,7 @@ This repo is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.
 
 ### Credits:
 
-- [Claud D. Park](mailto://posquit0.bj@gmail.com) and [Vel](mailto://vel@latextemplates.com) for the Résumé template.
+- [Claud D. Park](mailto://posquit0.bj@gmail.com) and [Vel](mailto://vel@latextemplates.com) for the [Résumé template](http://www.latextemplates.com/template/awesome-resume-cv).
 - Any Copyright/Trademark/rights are reserved to their respective owners.
 
 ## TOC
