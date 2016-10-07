@@ -7,6 +7,14 @@ omitted for privacy reasons.
 - [Critera:](criteria.pdf) The NTHS papers that outline qualification critera.
 - [Nomiation Congratulation Papers](nomination.pdf): A small paper congratulating me for being nominated for NTHS.
 
+
+## Dodcuments to be added:
+
+- [ ] NTHS Checklist: a short checklist to make sure you've gone through every step.
+- [ ] Two letters of recommendation.
+- [ ] Two signed letter of recommendation sheets.
+
 ## Omitted Documents:
 
 - Membership Application: It just contains a bit too much personal info that I don't feel like censoring.
+
