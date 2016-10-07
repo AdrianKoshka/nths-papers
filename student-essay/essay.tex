@@ -3,10 +3,13 @@
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
-\usepackage{identfirst}
+\usepackage{indentfirst}
 \usepackage{url}
+\usepackage[nottoc]{tocbibind}
 
 \begin{document}
 \input{title_page.tex}
-\input{essay_body.tex}
+\tableofcontents
+\newpage
+\input{body.tex}
 \end{document}
