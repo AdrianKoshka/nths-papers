@@ -2,6 +2,12 @@
 
 Documents related to the National Technical Honor Society.
 
+## Why Did I put this stuff up on github?
+
+I wanted to be transparent about my application process to NTHS, from
+the documents they provided me, to the documents I made myself, and that others
+contributed. 
+
 ## License: ![License badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-blue.svg)
 
 This repo is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/).
