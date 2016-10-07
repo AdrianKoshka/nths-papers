@@ -6,3 +6,7 @@ omitted for privacy reasons.
 - [After Graduation Plans:](after-grad-plans.pdf) A small paper I had to write about my after graduation plans.
 - [Critera:](criteria.pdf) The NTHS papers that outline qualification critera.
 - [Nomiation Congratulation Papers](nomination.pdf): A small paper congratulating me for being nominated for NTHS.
+
+## Omitted Documents:
+
+- Membership Application: It just contains a bit too much personal info that I don't feel like censoring.
