@@ -2,9 +2,14 @@
 
 Documents related to the National Technical Honor Society.
 
-# License: ![License badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-blue.svg)
+## License: ![License badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-blue.svg)
 
 This repo is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+### Credits:
+
+- [Claud D. Park](mailto://posquit0.bj@gmail.com) and [Vel](mailto://vel@latextemplates.com) for the Résumé template.
+- Any Copyright/Trademark/rights are reserved to their respective owners.
 
 ## TOC
 
