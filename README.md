@@ -1,4 +1,4 @@
-# nths-papers
+# NTHS-papers
 
 Documents related to the National Technical Honor Society.
 
