@@ -23,3 +23,4 @@ This repo is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.
 - [NTHS Specific:](nths-specific) Papers specificly from NTHS, some papers omitted.
 - [Résumé:](resume) The LaTeX source-code for my Résumé/CV.
 - [README.md](README.md) What you are reading right now.
+- [Student Essay:](student-essay) An essay about why I should be inducted into NTHS.
