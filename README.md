@@ -8,6 +8,7 @@ This repo is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.
 
 ## TOC
 
+- [License:](LICENSE) The License this repository is under.
+- [NTHS Specific:](nths-specific) Papers specificly from NTHS, some papers omitted.
 - [Résumé:](resume) The LaTeX source-code for my Résumé/CV.
-- [License](LICENSE) The License this repository is under.
 - [README.md](README.md) What you are reading right now.
