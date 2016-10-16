@@ -4,8 +4,10 @@ The letters of recommendation written on the behalf of others.
 
 ## TOC:
 
+- David Evon;
+  - [Letter of Recommendation and signed Recommendation](David-Evon-Recommendation.pdf)
+
 - Michael Kruger:
-  - [Letter of Recommendation](Michael-Kruger-Recommendation.pdf)
-  - [Signed Recommendation:](Michael-Kruger-Signed.pdf) A signed confirmation of recommendation
+  - [Letter of Recommendation and signed Recommendation](Michael-Kruger-Recommendation.pdf)
 
 
