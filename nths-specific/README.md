@@ -10,10 +10,10 @@ omitted for privacy reasons.
 
 ## Dodcuments to be added:
 
-- [ ] NTHS Checklist: a short checklist to make sure you've gone through every step.
+- [X] NTHS Checklist: a short checklist to make sure you've gone through every step.
 - [X] Student Essay: An essay about why I should be inducted into NTHS.
-- [ ] Two letters of recommendation.
-- [ ] Two signed letter of recommendation sheets.
+- [X] Two letters of recommendation.
+  - [X] Two signed letter of recommendation sheets.
 
 ## Omitted Documents:
 
