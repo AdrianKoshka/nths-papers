@@ -5,6 +5,7 @@ omitted for privacy reasons.
 
 - [After Graduation Plans:](after-grad-plans.pdf) A small paper I had to write about my after graduation plans.
 - [Checklist:](Checklist.pdf) A checklist to help the applicant know how far they've gotten in the process.
+- [Congratulations:](congrats.pdf) - Paper saying you met the qualifications to become an NTHS member.
 - [Critera:](criteria.pdf) The NTHS papers that outline qualification critera.
 - [Nomiation Congratulation Papers](nomination.pdf): A small paper congratulating me for being nominated for NTHS.
 
